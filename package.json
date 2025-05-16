@@ -3,6 +3,12 @@
   "version": "0.1.1",
   "description": "A live RPC implementation for Hono/React, bring your own db.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiiiaZoTe/react-live-rpc"
+  },
+  "author": "DiiiaZoTe",
+  "license": "ISC",
   "types": "dist/index.d.ts",
   "files": [
     "dist"
@@ -21,10 +27,10 @@
     "react",
     "rpc",
     "live",
-    "realtime"
+    "realtime",
+    "socket",
+    "websocket"
   ],
-  "author": "",
-  "license": "MIT",
   "dependencies": {
     "@tanstack/react-query": "^5.67.1",
     "crypto-js": "^4.2.0",
