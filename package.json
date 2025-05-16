@@ -1,6 +1,6 @@
 {
   "name": "react-liverpc",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "A live RPC implementation for Hono/React, bring your own db.",
   "main": "dist/index.js",
   "repository": {
